@@ -22,4 +22,9 @@
         android:name="com.my.first.vistamovilapp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/menuClienteFragment"
+        android:name="com.my.first.vistamovilapp.MenuClienteFragment"
+        android:label="fragment_menu_cliente"
+        tools:layout="@layout/fragment_menu_cliente" />
 </navigation>

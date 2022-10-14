@@ -21,4 +21,8 @@
     <string name="salir">Salir</string>
     <string name="laboratorio_y_optica_vista">Laboratorio Y Optica Vista</string>
     <string name="suculsal_8va_av_sur">Sucursal 8va Av Sur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="archivopaciente">ArchivoPaciente</string>
+    <string name="pacienteimage">Paciente</string>
 </resources>

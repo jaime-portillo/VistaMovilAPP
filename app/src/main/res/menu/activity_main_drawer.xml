@@ -17,6 +17,7 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
         <item
+            android:id="@+id/menuClienteFragment"
             android:icon="@android:drawable/ic_menu_my_calendar"
             android:title="@string/paciente" />
         <item
