@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="@string/paciente" />
+        <item
+            android:icon="@android:drawable/ic_lock_idle_alarm"
+            android:title="@string/generar_cita" />
+        <item
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="@string/nueva_receta" />
+        <item
+            android:icon="?android:attr/actionModeFindDrawable"
+            android:title="@string/archivo" />
+        <item
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/cotizaciones" />
+        <item
+            android:icon="?attr/actionModeSelectAllDrawable"
+            android:title="@string/productos" />
+        <item
+            android:icon="@android:drawable/ic_menu_close_clear_cancel"
+            android:title="@string/salir" />
+    </group>
+</menu>
