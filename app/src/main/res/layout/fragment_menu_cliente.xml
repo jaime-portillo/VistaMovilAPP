@@ -10,12 +10,13 @@
     android:orientation="vertical"
     tools:context=".MenuClienteFragment">
 
-    <TextView
+     <TextView
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
-        android:text="Agregar Paciente"
+        android:backgroundTint="@color/black"
+        android:text="@string/agregar_paciente"
         android:textSize="24sp" />
 
     <ImageButton
@@ -31,6 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
+        android:backgroundTint="@color/black"
         android:text="@string/archivo"
         android:textSize="24sp" />
 
