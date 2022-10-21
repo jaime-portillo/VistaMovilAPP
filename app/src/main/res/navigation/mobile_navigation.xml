@@ -42,4 +42,9 @@
         android:name="com.my.first.vistamovilapp.GenerarCita"
         android:label="fragment_generar_cita"
         tools:layout="@layout/fragment_generar_cita" />
+    <fragment
+        android:id="@+id/agregarPaciente"
+        android:name="com.my.first.vistamovilapp.agregarPaciente"
+        android:label="fragment_agregar_paciente"
+        tools:layout="@layout/fragment_agregar_paciente" />
 </navigation>
