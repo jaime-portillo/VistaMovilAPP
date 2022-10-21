@@ -30,8 +30,10 @@
             android:icon="?android:attr/actionModeFindDrawable"
             android:title="@string/archivo" />
         <item
+            android:id="@+id/cotizacion"
             android:icon="@android:drawable/ic_dialog_dialer"
-            android:title="@string/cotizaciones" />
+            android:title="@string/cotizaciones"
+            />
         <item
             android:icon="?attr/actionModeSelectAllDrawable"
             android:title="@string/productos" />

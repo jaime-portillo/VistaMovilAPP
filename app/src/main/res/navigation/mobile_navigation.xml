@@ -27,4 +27,9 @@
         android:name="com.my.first.vistamovilapp.MenuClienteFragment"
         android:label="fragment_menu_cliente"
         tools:layout="@layout/fragment_menu_cliente" />
+    <fragment
+        android:id="@+id/cotizacion"
+        android:name="com.my.first.vistamovilapp.Cotizacion"
+        android:label="fragment_cotizacion"
+        tools:layout="@layout/fragment_cotizacion" />
 </navigation>

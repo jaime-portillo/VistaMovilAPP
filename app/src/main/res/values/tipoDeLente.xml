@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tipo_Lente">
+        <item>VS POLY BCO</item>
+        <item>VS POLY BCO AR</item>
+        <item>VS POLY TRANSITIONS</item>
+        <item>VS CR-39 BCO</item>
+        <item>VS CR-39 BCO AR</item>
+        <item>VS CR-39 FOTOCROMATICO</item>
+        <item>VS CR-39 TRANSITIONS</item>
+        <item>FT-28 POLY BCO</item>
+        <item>FT-28 CR-39 BCO</item>
+        <item>FT-28 CR-39 FOTOCROMATICO</item>
+        <item>FT-28 CR-39 TRANSITIONS</item>
+        <item>PROGRESIVO POLY BCO</item>
+        <item>PROGRESIVO POLY TRANSITIONS</item>
+        <item>PROGRESIVO CR-39 BCO</item>
+        <item>PROGRESIVO CR-39 FOTOCROMATICO</item>+
+    </string-array>
+</resources>
