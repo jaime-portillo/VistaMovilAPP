@@ -32,4 +32,9 @@
         android:name="com.my.first.vistamovilapp.Cotizacion"
         android:label="fragment_cotizacion"
         tools:layout="@layout/fragment_cotizacion" />
+    <fragment
+        android:id="@+id/nuevaReceta"
+        android:name="com.my.first.vistamovilapp.NuevaReceta"
+        android:label="fragment_nueva_receta"
+        tools:layout="@layout/fragment_nueva_receta" />
 </navigation>

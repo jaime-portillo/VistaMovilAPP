@@ -24,6 +24,7 @@
             android:icon="@android:drawable/ic_lock_idle_alarm"
             android:title="@string/generar_cita" />
         <item
+            android:id="@+id/nuevaReceta"
             android:icon="@android:drawable/ic_menu_agenda"
             android:title="@string/nueva_receta" />
         <item
